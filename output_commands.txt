@@ -1,0 +1,456 @@
+log_training.txt
+Termination Causes : 
+
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Small Progress
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Small Progress
+Terminating because Turned Back
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Turned Back
+Terminating because Small Progress
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Turned Back
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Out of Track
+Terminating because Small Progress
+Terminating because Turned Back
+Terminating because Out of Track
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Small Progress
+Terminating because Out of Track
+Terminating because Small Progress
+
+All Rewards 
+
+TOTAL REWARD @ 0-th Episode  : Reward -3692.6078227
+TOTAL REWARD @ 1-th Episode  : Reward -4116.63827905
+TOTAL REWARD @ 2-th Episode  : Reward -4367.29294719
+TOTAL REWARD @ 3-th Episode  : Reward -4570.21904026
+TOTAL REWARD @ 4-th Episode  : Reward -3772.48997014
+TOTAL REWARD @ 5-th Episode  : Reward -2997.28383181
+TOTAL REWARD @ 6-th Episode  : Reward -3203.21042572
+TOTAL REWARD @ 7-th Episode  : Reward -135.856615099
+TOTAL REWARD @ 8-th Episode  : Reward -1370.18189602
+TOTAL REWARD @ 9-th Episode  : Reward -311.665395202
+TOTAL REWARD @ 10-th Episode  : Reward -234.120791062
+TOTAL REWARD @ 11-th Episode  : Reward -585.598201598
+TOTAL REWARD @ 12-th Episode  : Reward -1672.35177601
+TOTAL REWARD @ 13-th Episode  : Reward -2487.29354118
+TOTAL REWARD @ 14-th Episode  : Reward 174.678540837
+TOTAL REWARD @ 15-th Episode  : Reward 261.079906141
+TOTAL REWARD @ 16-th Episode  : Reward 343.824306859
+TOTAL REWARD @ 17-th Episode  : Reward 25.8831881515
+TOTAL REWARD @ 18-th Episode  : Reward 107.090165509
+TOTAL REWARD @ 19-th Episode  : Reward 142.522766083
+TOTAL REWARD @ 20-th Episode  : Reward 461.766031573
+TOTAL REWARD @ 21-th Episode  : Reward 702.769312531
+TOTAL REWARD @ 22-th Episode  : Reward 966.849671113
+TOTAL REWARD @ 23-th Episode  : Reward 1077.80745106
+TOTAL REWARD @ 24-th Episode  : Reward 1475.96943604
+TOTAL REWARD @ 25-th Episode  : Reward 1381.57222113
+TOTAL REWARD @ 26-th Episode  : Reward 1031.26756365
+TOTAL REWARD @ 27-th Episode  : Reward 642.560946249
+TOTAL REWARD @ 28-th Episode  : Reward 1077.72259437
+TOTAL REWARD @ 29-th Episode  : Reward 1513.3350799
+TOTAL REWARD @ 30-th Episode  : Reward 1073.097227
+TOTAL REWARD @ 31-th Episode  : Reward 1644.55392476
+TOTAL REWARD @ 32-th Episode  : Reward 3290.00447473
+TOTAL REWARD @ 33-th Episode  : Reward 1962.13292474
+TOTAL REWARD @ 34-th Episode  : Reward 4201.28289465
+TOTAL REWARD @ 35-th Episode  : Reward 2942.62105
+TOTAL REWARD @ 36-th Episode  : Reward 1569.93856132
+TOTAL REWARD @ 37-th Episode  : Reward 4341.81053052
+TOTAL REWARD @ 38-th Episode  : Reward 2592.45268226
+TOTAL REWARD @ 39-th Episode  : Reward 1546.70867541
+TOTAL REWARD @ 40-th Episode  : Reward 2445.68213481
+TOTAL REWARD @ 41-th Episode  : Reward 2510.97854617
+TOTAL REWARD @ 42-th Episode  : Reward 2126.09577878
+TOTAL REWARD @ 43-th Episode  : Reward 5500.46538726
+TOTAL REWARD @ 44-th Episode  : Reward 1205.29062199
+TOTAL REWARD @ 45-th Episode  : Reward 2853.40395731
+TOTAL REWARD @ 46-th Episode  : Reward 3995.11806619
+TOTAL REWARD @ 47-th Episode  : Reward 2673.96559779
+TOTAL REWARD @ 48-th Episode  : Reward 6954.63971878
+TOTAL REWARD @ 49-th Episode  : Reward 5783.62316845
+TOTAL REWARD @ 50-th Episode  : Reward 4511.29534218
+TOTAL REWARD @ 51-th Episode  : Reward 3095.38327074
+TOTAL REWARD @ 52-th Episode  : Reward 3302.79450212
+TOTAL REWARD @ 53-th Episode  : Reward 5029.18303708
+TOTAL REWARD @ 54-th Episode  : Reward 6352.42208174
+TOTAL REWARD @ 55-th Episode  : Reward 2480.02064285
+TOTAL REWARD @ 56-th Episode  : Reward 6007.62134393
+TOTAL REWARD @ 57-th Episode  : Reward 2257.88427914
+TOTAL REWARD @ 58-th Episode  : Reward 3207.2004093
+TOTAL REWARD @ 59-th Episode  : Reward 4860.27666704
+TOTAL REWARD @ 60-th Episode  : Reward 2543.79965772
+TOTAL REWARD @ 61-th Episode  : Reward 5644.55546397
+TOTAL REWARD @ 62-th Episode  : Reward 6588.8297302
+TOTAL REWARD @ 63-th Episode  : Reward 3246.62124524
+TOTAL REWARD @ 64-th Episode  : Reward 1938.03365905
+TOTAL REWARD @ 65-th Episode  : Reward 5568.09145727
+TOTAL REWARD @ 66-th Episode  : Reward 2813.34784217
+TOTAL REWARD @ 67-th Episode  : Reward 2259.52965148
+TOTAL REWARD @ 68-th Episode  : Reward 6059.33452479
+TOTAL REWARD @ 69-th Episode  : Reward 1030.27711162
+TOTAL REWARD @ 70-th Episode  : Reward 2747.27590567
+TOTAL REWARD @ 71-th Episode  : Reward 2935.16727205
+TOTAL REWARD @ 72-th Episode  : Reward 2471.70978357
+TOTAL REWARD @ 73-th Episode  : Reward 3127.13338371
+TOTAL REWARD @ 74-th Episode  : Reward 23458.0869213
+TOTAL REWARD @ 75-th Episode  : Reward 2749.02535673
+TOTAL REWARD @ 76-th Episode  : Reward 3098.96869265
+TOTAL REWARD @ 77-th Episode  : Reward 3360.65179583
+TOTAL REWARD @ 78-th Episode  : Reward 3505.119545
+TOTAL REWARD @ 79-th Episode  : Reward 3340.6007705
+TOTAL REWARD @ 80-th Episode  : Reward 10219.319686
+TOTAL REWARD @ 81-th Episode  : Reward 3220.52603324
+TOTAL REWARD @ 82-th Episode  : Reward 3928.88653099
+TOTAL REWARD @ 83-th Episode  : Reward 3497.6582498
+TOTAL REWARD @ 84-th Episode  : Reward 3483.45101707
+TOTAL REWARD @ 85-th Episode  : Reward 6903.76860578
+TOTAL REWARD @ 86-th Episode  : Reward 441.077217162
+TOTAL REWARD @ 87-th Episode  : Reward 6652.04150345
+TOTAL REWARD @ 88-th Episode  : Reward 7352.80948192
+TOTAL REWARD @ 89-th Episode  : Reward 979.324583372
+TOTAL REWARD @ 90-th Episode  : Reward 7281.82608176
+TOTAL REWARD @ 91-th Episode  : Reward 3395.63254146
+TOTAL REWARD @ 92-th Episode  : Reward 3419.65218149
+TOTAL REWARD @ 93-th Episode  : Reward 7997.43696324
+TOTAL REWARD @ 94-th Episode  : Reward 7604.47811576
+TOTAL REWARD @ 95-th Episode  : Reward 7895.16086998
+TOTAL REWARD @ 96-th Episode  : Reward 2705.85373533
+TOTAL REWARD @ 97-th Episode  : Reward 3219.43610684
+TOTAL REWARD @ 98-th Episode  : Reward 3424.71800942
+TOTAL REWARD @ 99-th Episode  : Reward 7772.81066608
+TOTAL REWARD @ 100-th Episode  : Reward 17279.1229466
+TOTAL REWARD @ 101-th Episode  : Reward 3805.69811182
+TOTAL REWARD @ 102-th Episode  : Reward 3107.58945392
+TOTAL REWARD @ 103-th Episode  : Reward 5787.55331061
+TOTAL REWARD @ 104-th Episode  : Reward 7114.79779105
+TOTAL REWARD @ 105-th Episode  : Reward 3104.27416046
+TOTAL REWARD @ 106-th Episode  : Reward 3760.57858361
+TOTAL REWARD @ 107-th Episode  : Reward 5889.36289995
+TOTAL REWARD @ 108-th Episode  : Reward 53602.4379016
+TOTAL REWARD @ 109-th Episode  : Reward 59868.9498174
+TOTAL REWARD @ 110-th Episode  : Reward 4010.55522414
+TOTAL REWARD @ 111-th Episode  : Reward 34391.8742207
+TOTAL REWARD @ 112-th Episode  : Reward 57328.1479661
+TOTAL REWARD @ 113-th Episode  : Reward 39452.5365948
+TOTAL REWARD @ 114-th Episode  : Reward 5899.90397797
+TOTAL REWARD @ 115-th Episode  : Reward 3021.76398314
+TOTAL REWARD @ 116-th Episode  : Reward 25845.6722644
+TOTAL REWARD @ 117-th Episode  : Reward 9616.87851148
+TOTAL REWARD @ 118-th Episode  : Reward 29144.1181706
+TOTAL REWARD @ 119-th Episode  : Reward 48749.2513605
+TOTAL REWARD @ 120-th Episode  : Reward 5330.95161929
+TOTAL REWARD @ 121-th Episode  : Reward 5533.91139838
+TOTAL REWARD @ 122-th Episode  : Reward 4134.15261728
+TOTAL REWARD @ 123-th Episode  : Reward 3797.98789694
+TOTAL REWARD @ 124-th Episode  : Reward 3536.39392669
+TOTAL REWARD @ 125-th Episode  : Reward 3977.1540688
+TOTAL REWARD @ 126-th Episode  : Reward 3845.35641824
+TOTAL REWARD @ 127-th Episode  : Reward 731.769175513
+TOTAL REWARD @ 128-th Episode  : Reward 26587.0186049
+TOTAL REWARD @ 129-th Episode  : Reward 3432.38029353
+TOTAL REWARD @ 130-th Episode  : Reward 5985.40681115
+TOTAL REWARD @ 131-th Episode  : Reward 66803.0441879
+TOTAL REWARD @ 132-th Episode  : Reward 37067.2844205
+TOTAL REWARD @ 133-th Episode  : Reward 6342.43102759
+TOTAL REWARD @ 134-th Episode  : Reward 60997.9750245
+TOTAL REWARD @ 135-th Episode  : Reward 3409.35370943
+TOTAL REWARD @ 136-th Episode  : Reward 596.252009782
+TOTAL REWARD @ 137-th Episode  : Reward 5985.01471467
+TOTAL REWARD @ 138-th Episode  : Reward 5980.25914858
+TOTAL REWARD @ 139-th Episode  : Reward 4009.4452063
+TOTAL REWARD @ 140-th Episode  : Reward 20332.2497382
+TOTAL REWARD @ 142-th Episode  : Reward 3163.3146236
+TOTAL REWARD @ 143-th Episode  : Reward 42746.4467614
+TOTAL REWARD @ 144-th Episode  : Reward 40994.647877
+TOTAL REWARD @ 145-th Episode  : Reward 14126.8942248
+TOTAL REWARD @ 146-th Episode  : Reward 5501.16844991
+TOTAL REWARD @ 147-th Episode  : Reward 79363.8478579
+TOTAL REWARD @ 148-th Episode  : Reward 47098.1438384
+TOTAL REWARD @ 149-th Episode  : Reward 6305.20683924
+TOTAL REWARD @ 150-th Episode  : Reward 5209.89302466
+TOTAL REWARD @ 151-th Episode  : Reward 2776.91030341
+TOTAL REWARD @ 152-th Episode  : Reward 12421.6705518
+TOTAL REWARD @ 153-th Episode  : Reward 11762.340294
+TOTAL REWARD @ 154-th Episode  : Reward 2674.5241236
+TOTAL REWARD @ 155-th Episode  : Reward 10120.6016606
+TOTAL REWARD @ 156-th Episode  : Reward 3105.51481276
+TOTAL REWARD @ 157-th Episode  : Reward 2355.12970686
+TOTAL REWARD @ 158-th Episode  : Reward 5888.68484874
+TOTAL REWARD @ 159-th Episode  : Reward 10060.3076332
+TOTAL REWARD @ 160-th Episode  : Reward 2032.06491582
+TOTAL REWARD @ 161-th Episode  : Reward 5497.40930342
+TOTAL REWARD @ 162-th Episode  : Reward 5592.58969889
+TOTAL REWARD @ 163-th Episode  : Reward 8555.18228249
+TOTAL REWARD @ 164-th Episode  : Reward 2707.63175358
+TOTAL REWARD @ 165-th Episode  : Reward 2996.76765778
+TOTAL REWARD @ 166-th Episode  : Reward 5897.89467577
+
+Rewards > 1000 
+
+TOTAL REWARD @ 23-th Episode  : Reward 1077.80745106
+TOTAL REWARD @ 24-th Episode  : Reward 1475.96943604
+TOTAL REWARD @ 25-th Episode  : Reward 1381.57222113
+TOTAL REWARD @ 26-th Episode  : Reward 1031.26756365
+TOTAL REWARD @ 28-th Episode  : Reward 1077.72259437
+TOTAL REWARD @ 29-th Episode  : Reward 1513.3350799
+TOTAL REWARD @ 30-th Episode  : Reward 1073.097227
+TOTAL REWARD @ 31-th Episode  : Reward 1644.55392476
+TOTAL REWARD @ 32-th Episode  : Reward 3290.00447473
+TOTAL REWARD @ 33-th Episode  : Reward 1962.13292474
+TOTAL REWARD @ 34-th Episode  : Reward 4201.28289465
+TOTAL REWARD @ 35-th Episode  : Reward 2942.62105
+TOTAL REWARD @ 36-th Episode  : Reward 1569.93856132
+TOTAL REWARD @ 37-th Episode  : Reward 4341.81053052
+TOTAL REWARD @ 38-th Episode  : Reward 2592.45268226
+TOTAL REWARD @ 39-th Episode  : Reward 1546.70867541
+TOTAL REWARD @ 40-th Episode  : Reward 2445.68213481
+TOTAL REWARD @ 41-th Episode  : Reward 2510.97854617
+TOTAL REWARD @ 42-th Episode  : Reward 2126.09577878
+TOTAL REWARD @ 43-th Episode  : Reward 5500.46538726
+TOTAL REWARD @ 44-th Episode  : Reward 1205.29062199
+TOTAL REWARD @ 45-th Episode  : Reward 2853.40395731
+TOTAL REWARD @ 46-th Episode  : Reward 3995.11806619
+TOTAL REWARD @ 47-th Episode  : Reward 2673.96559779
+TOTAL REWARD @ 48-th Episode  : Reward 6954.63971878
+TOTAL REWARD @ 49-th Episode  : Reward 5783.62316845
+TOTAL REWARD @ 50-th Episode  : Reward 4511.29534218
+TOTAL REWARD @ 51-th Episode  : Reward 3095.38327074
+TOTAL REWARD @ 52-th Episode  : Reward 3302.79450212
+TOTAL REWARD @ 53-th Episode  : Reward 5029.18303708
+TOTAL REWARD @ 54-th Episode  : Reward 6352.42208174
+TOTAL REWARD @ 55-th Episode  : Reward 2480.02064285
+TOTAL REWARD @ 56-th Episode  : Reward 6007.62134393
+TOTAL REWARD @ 57-th Episode  : Reward 2257.88427914
+TOTAL REWARD @ 58-th Episode  : Reward 3207.2004093
+TOTAL REWARD @ 59-th Episode  : Reward 4860.27666704
+TOTAL REWARD @ 60-th Episode  : Reward 2543.79965772
+TOTAL REWARD @ 61-th Episode  : Reward 5644.55546397
+TOTAL REWARD @ 62-th Episode  : Reward 6588.8297302
+TOTAL REWARD @ 63-th Episode  : Reward 3246.62124524
+TOTAL REWARD @ 64-th Episode  : Reward 1938.03365905
+TOTAL REWARD @ 65-th Episode  : Reward 5568.09145727
+TOTAL REWARD @ 66-th Episode  : Reward 2813.34784217
+TOTAL REWARD @ 67-th Episode  : Reward 2259.52965148
+TOTAL REWARD @ 68-th Episode  : Reward 6059.33452479
+TOTAL REWARD @ 69-th Episode  : Reward 1030.27711162
+TOTAL REWARD @ 70-th Episode  : Reward 2747.27590567
+TOTAL REWARD @ 71-th Episode  : Reward 2935.16727205
+TOTAL REWARD @ 72-th Episode  : Reward 2471.70978357
+TOTAL REWARD @ 73-th Episode  : Reward 3127.13338371
+TOTAL REWARD @ 75-th Episode  : Reward 2749.02535673
+TOTAL REWARD @ 76-th Episode  : Reward 3098.96869265
+TOTAL REWARD @ 77-th Episode  : Reward 3360.65179583
+TOTAL REWARD @ 78-th Episode  : Reward 3505.119545
+TOTAL REWARD @ 79-th Episode  : Reward 3340.6007705
+TOTAL REWARD @ 81-th Episode  : Reward 3220.52603324
+TOTAL REWARD @ 82-th Episode  : Reward 3928.88653099
+TOTAL REWARD @ 83-th Episode  : Reward 3497.6582498
+TOTAL REWARD @ 84-th Episode  : Reward 3483.45101707
+TOTAL REWARD @ 85-th Episode  : Reward 6903.76860578
+TOTAL REWARD @ 87-th Episode  : Reward 6652.04150345
+TOTAL REWARD @ 88-th Episode  : Reward 7352.80948192
+TOTAL REWARD @ 90-th Episode  : Reward 7281.82608176
+TOTAL REWARD @ 91-th Episode  : Reward 3395.63254146
+TOTAL REWARD @ 92-th Episode  : Reward 3419.65218149
+TOTAL REWARD @ 93-th Episode  : Reward 7997.43696324
+TOTAL REWARD @ 94-th Episode  : Reward 7604.47811576
+TOTAL REWARD @ 95-th Episode  : Reward 7895.16086998
+TOTAL REWARD @ 96-th Episode  : Reward 2705.85373533
+TOTAL REWARD @ 97-th Episode  : Reward 3219.43610684
+TOTAL REWARD @ 98-th Episode  : Reward 3424.71800942
+TOTAL REWARD @ 99-th Episode  : Reward 7772.81066608
+TOTAL REWARD @ 101-th Episode  : Reward 3805.69811182
+TOTAL REWARD @ 102-th Episode  : Reward 3107.58945392
+TOTAL REWARD @ 103-th Episode  : Reward 5787.55331061
+TOTAL REWARD @ 104-th Episode  : Reward 7114.79779105
+TOTAL REWARD @ 105-th Episode  : Reward 3104.27416046
+TOTAL REWARD @ 106-th Episode  : Reward 3760.57858361
+TOTAL REWARD @ 107-th Episode  : Reward 5889.36289995
+TOTAL REWARD @ 110-th Episode  : Reward 4010.55522414
+TOTAL REWARD @ 114-th Episode  : Reward 5899.90397797
+TOTAL REWARD @ 115-th Episode  : Reward 3021.76398314
+TOTAL REWARD @ 117-th Episode  : Reward 9616.87851148
+TOTAL REWARD @ 120-th Episode  : Reward 5330.95161929
+TOTAL REWARD @ 121-th Episode  : Reward 5533.91139838
+TOTAL REWARD @ 122-th Episode  : Reward 4134.15261728
+TOTAL REWARD @ 123-th Episode  : Reward 3797.98789694
+TOTAL REWARD @ 124-th Episode  : Reward 3536.39392669
+TOTAL REWARD @ 125-th Episode  : Reward 3977.1540688
+TOTAL REWARD @ 126-th Episode  : Reward 3845.35641824
+TOTAL REWARD @ 129-th Episode  : Reward 3432.38029353
+TOTAL REWARD @ 130-th Episode  : Reward 5985.40681115
+TOTAL REWARD @ 133-th Episode  : Reward 6342.43102759
+TOTAL REWARD @ 135-th Episode  : Reward 3409.35370943
+TOTAL REWARD @ 137-th Episode  : Reward 5985.01471467
+TOTAL REWARD @ 138-th Episode  : Reward 5980.25914858
+TOTAL REWARD @ 139-th Episode  : Reward 4009.4452063
+TOTAL REWARD @ 142-th Episode  : Reward 3163.3146236
+TOTAL REWARD @ 146-th Episode  : Reward 5501.16844991
+TOTAL REWARD @ 149-th Episode  : Reward 6305.20683924
+TOTAL REWARD @ 150-th Episode  : Reward 5209.89302466
+TOTAL REWARD @ 151-th Episode  : Reward 2776.91030341
+TOTAL REWARD @ 154-th Episode  : Reward 2674.5241236
+TOTAL REWARD @ 156-th Episode  : Reward 3105.51481276
+TOTAL REWARD @ 157-th Episode  : Reward 2355.12970686
+TOTAL REWARD @ 158-th Episode  : Reward 5888.68484874
+TOTAL REWARD @ 160-th Episode  : Reward 2032.06491582
+TOTAL REWARD @ 161-th Episode  : Reward 5497.40930342
+TOTAL REWARD @ 162-th Episode  : Reward 5592.58969889
+TOTAL REWARD @ 163-th Episode  : Reward 8555.18228249
+TOTAL REWARD @ 164-th Episode  : Reward 2707.63175358
+TOTAL REWARD @ 165-th Episode  : Reward 2996.76765778
+TOTAL REWARD @ 166-th Episode  : Reward 5897.89467577
+
+Rewards > 10000 
+
+TOTAL REWARD @ 74-th Episode  : Reward 23458.0869213
+TOTAL REWARD @ 80-th Episode  : Reward 10219.319686
+TOTAL REWARD @ 100-th Episode  : Reward 17279.1229466
+TOTAL REWARD @ 108-th Episode  : Reward 53602.4379016
+TOTAL REWARD @ 109-th Episode  : Reward 59868.9498174
+TOTAL REWARD @ 111-th Episode  : Reward 34391.8742207
+TOTAL REWARD @ 112-th Episode  : Reward 57328.1479661
+TOTAL REWARD @ 113-th Episode  : Reward 39452.5365948
+TOTAL REWARD @ 116-th Episode  : Reward 25845.6722644
+TOTAL REWARD @ 118-th Episode  : Reward 29144.1181706
+TOTAL REWARD @ 119-th Episode  : Reward 48749.2513605
+TOTAL REWARD @ 128-th Episode  : Reward 26587.0186049
+TOTAL REWARD @ 131-th Episode  : Reward 66803.0441879
+TOTAL REWARD @ 132-th Episode  : Reward 37067.2844205
+TOTAL REWARD @ 134-th Episode  : Reward 60997.9750245
+TOTAL REWARD @ 140-th Episode  : Reward 20332.2497382
+TOTAL REWARD @ 143-th Episode  : Reward 42746.4467614
+TOTAL REWARD @ 144-th Episode  : Reward 40994.647877
+TOTAL REWARD @ 145-th Episode  : Reward 14126.8942248
+TOTAL REWARD @ 147-th Episode  : Reward 79363.8478579
+TOTAL REWARD @ 148-th Episode  : Reward 47098.1438384
+TOTAL REWARD @ 152-th Episode  : Reward 12421.6705518
+TOTAL REWARD @ 153-th Episode  : Reward 11762.340294
+TOTAL REWARD @ 155-th Episode  : Reward 10120.6016606
+TOTAL REWARD @ 159-th Episode  : Reward 10060.3076332
+
+Early Stoppings  
+
+Episode : 154 Replay Buffer 100000 Early Stopping: 1 Epsilon: 0.345724999997 RN: 0.423580058889
+Episode : 156 Replay Buffer 100000 Early Stopping: 1 Epsilon: 0.343939999997 RN: 0.323873911227
+Episode : 157 Replay Buffer 100000 Early Stopping: 1 Epsilon: 0.343554999997 RN: 0.304933106817
+Episode : 158 Replay Buffer 100000 Early Stopping: 1 Epsilon: 0.343264999997 RN: 0.403623377832
+Episode : 160 Replay Buffer 100000 Early Stopping: 1 Epsilon: 0.340784999997 RN: 0.553645323104
+Episode : 161 Replay Buffer 100000 Early Stopping: 1 Epsilon: 0.340569999997 RN: 0.0941791052908
+Episode : 162 Replay Buffer 100000 Early Stopping: 1 Epsilon: 0.339989999997 RN: 0.0680401888219
+Episode : 164 Replay Buffer 100000 Early Stopping: 1 Epsilon: 0.329419999998 RN: 0.284826456431
+Episode : 165 Replay Buffer 100000 Early Stopping: 1 Epsilon: 0.328909999998 RN: 0.176646365345
+Episode : 166 Replay Buffer 100000 Early Stopping: 1 Epsilon: 0.328589999998 RN: 0.261667291538
+
+Any Nans  
+
+
+Current Epsilon 
+
+('Episode', 167, 'Step', 527.0, 'Epsilon', 0.3253699999975192, 'Action', array([[ 0.68237454,  0.78469097,  0.6489632 ]]), 'Reward', -0.021552533502107271, 'Loss', 538.6209716796875)
+('Episode', 167, 'Step', 542.0, 'Epsilon', 0.32529499999751954, 'Action', array([[ 0.92205621,  0.88882164,  0.63490426]]), 'Reward', -0.042916886138224808, 'Loss', 4194.533203125)
+('Episode', 167, 'Step', 557.0, 'Epsilon', 0.3252199999975199, 'Action', array([[ 0.76755197,  0.85467146,  0.61155393]]), 'Reward', -0.0053705

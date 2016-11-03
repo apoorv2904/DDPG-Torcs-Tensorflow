@@ -1,0 +1,3 @@
+/home/exx/.torcs/config/raceman/practice.xml
+sudo chown $USER:$USER /home/exx/.torcs/config/raceman/practice.xml
+grep 'TOTAL REWARD' log_training.txt 
